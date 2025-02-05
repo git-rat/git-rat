@@ -1,22 +1,19 @@
-# Hi there! 👋
+# Hi there 👋 I'm Rathika
 
-Welcome to my GitHub profile! I'm passionate about software development, problem-solving, and learning new technologies. 🚀
+I'm an engineering student passionate about problem-solving and software development. I'm currently learning Java and Dart while working on projects that enhance my understanding of algorithms and system design.
 
-## 🔥 Skills & Technologies
-- **Languages:** Java, Python, C, Dart
-- **Frameworks & Tools:** Flutter, TensorFlow, Keras
-- **Interests:** Competitive Programming, Machine Learning, Mobile App Development
+## 🚀 Skills & Interests
+- Programming Languages: Java, Dart, Python, C
+- Interests: LeetCode problem-solving, Flutter app development, system design
+- Currently Learning: Dart & Flutter
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+## 📫 Connect with Me
+- **GitHub**: [yolorat](https://github.com/yolorat)
+- **LeetCode**: [rat_for_code](https://leetcode.com/rat_for_code/)
+- **LinkedIn**: [Rathika C](https://www.linkedin.com/in/rathika-c-34461a244/)
 
-## 💡 LeetCode Progress
-![LeetCode Stats](https://leetcard.jacoblin.cool/your-username?theme=dark&font=Kanit&ext=activity)
+## 🔭 Projects
+- **Crop Health Management**: A computer vision project leveraging Keras for plant disease detection.
+- **Reminder App**: A privacy-focused reminder app with cross-device syncing and intelligent notifications.
 
-## 📫 Contact Me
-- **GitHub:** [github.com/your-username](https://github.com/your-username)
-- **LeetCode:** [leetcode.com/your-username](https://leetcode.com/your-username)
-- **LinkedIn:** [linkedin.com/in/your-username](https://linkedin.com/in/your-username)
-
-Feel free to explore my repositories and reach out! 😊
+Let's connect and collaborate!
