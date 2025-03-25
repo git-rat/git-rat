@@ -6,7 +6,7 @@ on:
   workflow_dispatch:  # Allows manual trigger
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
@@ -15,11 +15,11 @@ jobs:
       - name: Generate Snake SVG
         uses: Platane/snk@v3
         with:
-          github_user_name: git-rat  # Change this if needed
+          github_user_name: git-rat  # Your GitHub username
           outputs: dist/snake.svg
 
       - name: Upload Snake SVG
-        uses: actions/upload-artifact@v4  # Updated to v4
+        uses: actions/upload-artifact@v4  # FIXED VERSION
         with:
           name: snake-animation
           path: dist/snake.svg
@@ -27,5 +27,5 @@ jobs:
       - name: Push to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          branch: output  # Deploys to the 'output' branch
+          branch: output  # Stores the snake SVG in the 'output' branch
           folder: dist
