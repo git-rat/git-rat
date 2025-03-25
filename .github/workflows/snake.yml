@@ -2,8 +2,11 @@ name: Generate Snake Contribution Grid
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs every day at midnight UTC
-  workflow_dispatch:  # Allows manual trigger
+    - cron: "0 0 * * *"  # Runs daily at midnight UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write  # Fix for GitHub token permission issue
 
 jobs:
   generate:
@@ -15,11 +18,11 @@ jobs:
       - name: Generate Snake SVG
         uses: Platane/snk@v3
         with:
-          github_user_name: git-rat  # Your GitHub username
+          github_user_name: git-rat
           outputs: dist/snake.svg
 
       - name: Upload Snake SVG
-        uses: actions/upload-artifact@v4  # FIXED VERSION
+        uses: actions/upload-artifact@v4
         with:
           name: snake-animation
           path: dist/snake.svg
@@ -27,5 +30,5 @@ jobs:
       - name: Push to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          branch: output  # Stores the snake SVG in the 'output' branch
+          branch: output  # Ensure 'output' branch exists
           folder: dist
