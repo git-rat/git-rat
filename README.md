@@ -14,4 +14,17 @@ I'm an engineering student passionate about problem-solving and software develop
 
 ## 🔭 Projects
 - **Crop Health Management**: A computer vision project leveraging Keras for plant disease detection.
+
+---
+
+## 🐍 GitHub Activity Snake
+
+![GitHub Snake Animation](https://github.com/yolorat/yolorat/raw/output/github-snake.svg)
+
+_For dark mode users:_
+
+![GitHub Snake Animation](https://github.com/yolorat/yolorat/raw/output/github-snake-dark.svg)
+
+---
+
 Let's connect and collaborate!
