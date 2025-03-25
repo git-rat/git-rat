@@ -1,0 +1,35 @@
+name: Generate Snake Contribution Grid
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Runs every day at midnight UTC
+  workflow_dispatch:  # Allows manual triggering
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate Snake SVG
+        uses: Platane/snk@v3
+        with:
+          github_user_name: git-rat
+          outputs: dist/snake.svg
+
+      - name: Push to GitHub
+        uses: actions/upload-artifact@v3
+        with:
+          name: snake-animation
+          path: dist/snake.svg
+
+      - name: Commit and push to output branch
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -b output
+          mv dist/snake.svg github-contribution-grid-snake.svg
+          git add github-contribution-grid-snake.svg
+          git commit -m "Generated snake contribution grid"
+          git push origin output --force
