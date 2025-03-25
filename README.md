@@ -1,30 +1,36 @@
-# Hi there 👋 I'm Rathika
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-I'm an engineering student passionate about problem-solving and software development. I'm currently learning Java and Dart while working on projects that enhance my understanding of algorithms and system design.
+###
 
-## 🚀 Skills & Interests
-- Programming Languages: Java, Dart, Python, C
-- Interests: LeetCode problem-solving, Flutter app development, system design
-- Currently Learning: Dart & Flutter
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-## 📫 Connect with Me
-- **GitHub**: [yolorat](https://github.com/yolorat)
-- **LeetCode**: [rat_for_code](https://leetcode.com/rat_for_code/)
-- **LinkedIn**: [Rathika C](https://www.linkedin.com/in/rathika-c-34461a244/)
+###
 
-## 🔭 Projects
-- **Crop Health Management**: A computer vision project leveraging Keras for plant disease detection.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
----
+###
 
-## 🐍 GitHub Activity Snake
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-![GitHub Snake Animation](https://github.com/yolorat/yolorat/raw/output/github-snake.svg)
-
-_For dark mode users:_
-
-![GitHub Snake Animation](https://github.com/yolorat/yolorat/raw/output/github-snake-dark.svg)
-
----
-
-Let's connect and collaborate!
+###
