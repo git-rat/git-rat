@@ -14,6 +14,5 @@ I'm an engineering student passionate about problem-solving and software develop
 
 ## 🔭 Projects
 - **Crop Health Management**: A computer vision project leveraging Keras for plant disease detection.
-- **Reminder App**: A privacy-focused reminder app with cross-device syncing and intelligent notifications.
 
 Let's connect and collaborate!
