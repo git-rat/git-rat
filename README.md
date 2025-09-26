@@ -16,32 +16,21 @@
 
 ###
 
-### 🚀 Projects
-
-- **Rice Variety Classification**  
-  🔹 Built a deep learning model using **AlexNet** with **99.2% accuracy**.  
-  🔹 Fine-tuned multiple models for optimal results.
-
-- **PCOS Disease Prediction**  
-  🔹 Created a **Decision Tree-based model** with **96.9% accuracy**.  
-  🔹 Applied data preprocessing, feature selection, and evaluation techniques.
-
-- **TripNest - Hotel Booking System**  
-  🔹 Developed using **React**, **Node.js**, **MongoDB**, and **Sass**.  
-  🔹 Added features like 10% discount logic, responsive UI, and seamless backend integration.
+### 💡 Current Focus
+- Exploring **Machine Learning algorithms** and **Deep Learning architectures** through Kaggle datasets and personal experiments.  
+- Strengthening **Full-Stack Development** skills using **React**, **Node.js**, and **MongoDB**.  
+- Learning **Data Visualization** and **Business Intelligence** tools like **Power BI** and **Tableau** for real-world analytics.
 
 ###
 
 ### 💻 Skills
-
 - **Languages**: Python, Java, C, HTML/CSS  
 - **Tools/Platforms**: MongoDB, Power BI, Git, Tableau  
-- **Domains**: Machine Learning, Full-Stack Development
+- **Domains**: Machine Learning, Deep Learning, Full-Stack Development
 
 ###
 
 ### 📜 Certifications
-
 - **MongoDB Associate Developer** (International)
 - **Privacy and Security in Online Social Media** – NPTEL
 - **ML for Soil and Crop Management** – NPTEL
@@ -49,20 +38,11 @@
 ###
 
 ### 🏆 Achievements
-
 - 🥇 **1st place in Ideathon '23** – Kongu Engineering College
 
 ###
 
 ### 🎯 Career Objective
-
-Striving to grow in a challenging tech space that promotes innovation and continuous learning in AI, ML, and Full-Stack Development.
+Growing in a challenging tech space that promotes innovation and continuous learning in AI, ML, and Full-Stack Development.
 
 ###
-
-<!-- Snake contribution graph (optional if you still want it) -->
-<!-- 
-### 🐍 Watch my contributions get eaten by a snake:
-![Snake animation](https://github.com/git-rat/git-rat/blob/output/snake.svg)
--->
-
