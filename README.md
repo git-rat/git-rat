@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Rathika and I'm an AI & ML Enthusiast from Tamil Nadu, India.</h2>
+<h2 align="left">Hi 👋</h2>
 
 ###
 
